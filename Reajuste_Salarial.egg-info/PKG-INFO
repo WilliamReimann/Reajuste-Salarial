@@ -2,11 +2,12 @@ Metadata-Version: 2.1
 Name: Reajuste-Salarial
 Version: 0.0.1
 Summary: My short description
-Home-page: my_github_repository_project_link
+Home-page: https://github.com/WilliamReimann/Reajuste-Salarial
 Author: William Reimann
 Author-email: williamreimann25@gmail.com
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
+License-File: LICENSE
 
 # Reajuste Salarial
 
